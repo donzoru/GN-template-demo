@@ -1,0 +1,2 @@
+# default buildconfig
+buildconfig = "//build/config/BUILDCONFIG.gn"

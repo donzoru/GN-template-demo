@@ -1,0 +1,12 @@
+source_set("lib1") {
+  sources = [
+    "private.cpp",
+    "private.h",
+    "public.cpp",
+    "public.h",
+  ]
+
+  public = [
+    "public.h",
+  ]
+}
